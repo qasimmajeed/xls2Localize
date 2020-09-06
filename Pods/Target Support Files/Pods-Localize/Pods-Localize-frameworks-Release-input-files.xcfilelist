@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Localize/Pods-Localize-frameworks.sh
+${BUILT_PRODUCTS_DIR}/CoreXLSX/CoreXLSX.framework
+${BUILT_PRODUCTS_DIR}/XMLCoder/XMLCoder.framework
+${BUILT_PRODUCTS_DIR}/ZIPFoundation/ZIPFoundation.framework
